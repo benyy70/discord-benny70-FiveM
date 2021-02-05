@@ -1,6 +1,6 @@
 --script-by-benny70--
 RegisterCommand("dc", function()
-    msg("https://discord.gg/CpkzuzH")
+    msg("Link do Discorda")
 end, false)
 
 AddEventHandler("dc", function(param)
